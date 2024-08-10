@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/node": "^22.2.0",
+    "express": "^4.19.2",
+    "tsc": "^2.0.4"
+  },
+  "name": "crud-makers-pride",
+  "version": "1.0.0",
+  "description": "lets make crud",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
